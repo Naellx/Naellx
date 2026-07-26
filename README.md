@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <strong>Made with ❤️ by <a href="https://github.com/Naellx">Andra</a></strong>
+  <strong>Made with ❤️ by <a href="https://github.com/Naellx">Naellx</a></strong>
 </p>
