@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,18,22,24&height=180&section=header&text=Naellx&fontSize=70&fontAlignY=40&animation=fadeIn" width="100%"/>
