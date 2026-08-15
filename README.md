@@ -21,7 +21,6 @@
 • Script Developer
 • Lulusan Psikologi
 • Suka bikin script & tools
-• Paling sering nongkrong di Discord
 ```
 
 > *"Memahami manusia lewat psikologi, memahami mesin lewat kode."*
